@@ -9,7 +9,7 @@ defaults = {
     "model": "dall-e-3",
     "size": "1024x1024",
     "quality": "standard",
-    "number": "2",
+    "number": "1",
 }
 
 # Function to validate and parse arguments
